@@ -20,20 +20,19 @@ I’m a **third-year Computer Science undergraduate** at **IIT Sri Lanka**, affi
 ---
 
 ## 📊 GitHub Stats 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true) 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yehenidodanwela&show_icons=true&theme=tokyonight&hide_border=true) 
 
 ---
 
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yehenidodanwela&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🔥 Contribution Activity 
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true) 
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=yehenidodanwela&theme=tokyo-night&hide_border=true) 
 
 ---
 
@@ -50,6 +49,3 @@ I’m a **third-year Computer Science undergraduate** at **IIT Sri Lanka**, affi
 - [Portfolio](https://yeheni-dodanwela-portfolio-website.vercel.app/) 
 - [Email](yehenidodanwela05@gmail.com)  
 
----
-
- ![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge)
