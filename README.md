@@ -1,5 +1,7 @@
-# Hi there, I'm Yeheni Dodanwela 👋
+<img width="2125" height="575" alt="github-header-banner (2)" src="https://github.com/user-attachments/assets/1e560056-b805-47de-bc17-27ae5dfac2c4" />
 
+
+---
 I’m a **third-year Computer Science undergraduate** at **IIT Sri Lanka**, affiliated with the **University of Westminster (UoW)**.  
 
 💻 I’m passionate about **Software Engineering**, **full-stack development** and **UI/UX design** and love turning ideas into interactive, user-friendly applications.  
