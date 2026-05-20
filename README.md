@@ -44,11 +44,6 @@ I’m a **third-year Computer Science undergraduate** at **IIT Sri Lanka**, affi
 
 ---
 
-## 🔥 Contribution Activity 
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=yehenidodanwela&theme=tokyo-night&hide_border=true)
-
----
 
 ## 🏆 Achievements
 
