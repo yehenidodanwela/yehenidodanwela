@@ -50,7 +50,7 @@ I’m a **third-year Computer Science undergraduate** at **IIT Sri Lanka**, affi
 
 ## 🏆 Achievements
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=yehenidodanwela&theme=tokyonight)
+![Trophy](https://github-profile-trophy.screw-hand.vercel.app/?username=yehenidodanwela&theme=tokyonight)
 
 ---
 
